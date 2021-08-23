@@ -1,3 +1,3 @@
 # Обзор опенсорсных проектов
 
-[libmdbx](https://github.com/erthink/libmdbx) - база данных
+[На гитхабе](https://github.com/erthink/libmdbx),[на Гитфлике](https://gitflic.ru/project/erthink/libmdbx)   - база данных
